@@ -1,0 +1,9 @@
+spring:
+  data:
+    redis:
+      database: 0
+      host: localhost
+      port: 6379
+binance:
+  api:
+    url: "https://fapi.binance.com/fapi/v1/premiumIndex"
